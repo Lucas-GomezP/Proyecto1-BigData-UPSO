@@ -43,29 +43,36 @@ A partir de los dataframes procesados que contienen información sobre los produ
 
 La fig. 1 muestra la variación que sufrieron las ventas en los distintos meses del año, donde es posible apreciar que durante los meses de enero, agosto y septiembre los valores fueron menores al resto del año y los picos mayores se encuentran en octubre y diciembre. Teniendo en cuenta esto, la cantidad máxima de ventas ocurre en el mes de diciembre con un total de 28.121 mil productos y la mínima durante el mes de enero con 10.868 productos. Por otra parte, se muestra en color naranja, el total recaudado por mes donde el mismo guarda relación con el número de productos vendidos.
 
-![figura 1 - Ventas totales por mes](img/fig1.png)
+![Figura 1 - Ventas totales por mes](img/fig1.png)
+*Figura 1 - Ventas totales por mes*
 
 El conocimiento del patrón de ventas por hora permite optimizar la publicidad para promover el aumento en las ventas y obtener mayores ingresos. Comprender cuándo los clientes tienden a comprar con mayor frecuencia y en qué momentos las ventas son más bajas permite a las empresas adaptar sus campañas publicitarias de manera precisa. Para este caso en particular (fig. 2) que la mayor cantidad de ventas tienen lugar en horas cercanas al medio día, entre 10 y 14 horas, y alrededor de las 19 horas. Mientras que las mínimas ocurren en horas de la madrugada.
 
-![figura 2 - Unidades vendidas por hora por cada mes](img/fig2.png)
+![Figura 2 - Unidades vendidas por hora por cada mes](img/fig2.png)
+*Figura 2 - Unidades vendidas por hora por cada mes*
 
 Los datos analizados se corresponden a la cantidad de ventas en algunos de los estados de Estados Unidos que se muestran en la fig. 3. Con el fin de diferenciar el consumo en distintas regiones del país, se obtuvo que la mayor demanda ocurrió en las ciudades de San Francisco y Los Ángeles en el estado de California con un total de 50.239 y 33.289 unidades respectivamente, mientras que la menor demanda tuvo lugar en Portland (estado de Maine) con unas 2.750 unidades vendidas. Por otro lado, continúan la lista descendente, Nueva York con un total de 27.932, seguido por el estado de Texas con 27.883 (donde 11.153 corresponden a Austin y 16.730 a Dallas) y Portland del estado de Oregón y Boston de la Mancomunidad de Massachusetts con un total de 22.528 unidades pedidas.
 
-![figura 3 - Ventas por ubicación](img/fig3.png)
+![Figura 3 - Ventas por ubicación](img/fig3.png)
+*Figura 3 - Ventas por ubicación*
 
-![figura 4 - Unidades vendidas de cada Estado por mes](img/fig4.png)
+![Figura 4 - Unidades vendidas de cada Estado por mes](img/fig4.png)
+*Figura 4 - Unidades vendidas de cada Estado por mes*
 
 Las tendencias en las ventas de cada estado muestran fluctuaciones mensuales significativas (fig. 4), siendo más marcadas en el estado de California donde se observan picos máximos en los meses de abril octubre y diciembre. Mientras que las ventas mínimas son registradas en enero y septiembre. A diferencia del resto de los estados, Maine presenta una tendencia cuasi-constante en las ventas registradas. Sin embargo, el producto más vendido en todos los estados (fig. 5) fueron las Baterías AAA en el paquete de 4 unidades.
 
-![figura 5 - Producto mas vendido por mes](img/fig5.png)
+![Figura 5 - Producto mas vendido por mes](img/fig5.png)
+*Figura 5 - Producto mas vendido por mes*
 
 La cantidad de ventas diarias en los diferentes meses tiene una alta variabilidad (fig. 6), registrándose mayor cantidad durante los meses de diciembre y octubre, seguidos por abril, noviembre y mayo. Durante los días de la semana, en los meses de abril y diciembre se registran mayor cantidad de pedidos los lunes, martes y sábados, y con los mínimos durante los días jueves y domingos. Sin embargo, durante los meses de enero, febrero, agosto y septiembre, la cantidad de ventas se mantiene similar durante los días de la semana.
 
-![figura 6 - Cantidad vendida por dia en los distintos meses](img/fig6.png)
+![Figura 6 - Cantidad vendida por dia en los distintos meses](img/fig6.png)
+*Figura 6 - Cantidad vendida por dia en los distintos meses*
 
 Si se tiene en cuenta el factor de días festivos (Anexo: Tabla 1), existe un patrón destacado en el período previo extendiéndose hasta dicha fecha (Fig. 7). Aquí, se observa un notable incremento en la cantidad de productos vendidos en comparación con el promedio mensual cercano a las fechas festivas. En general, este incremento se sitúa en torno al 30%. Sin embargo, es importante señalar que tres fechas específicas —Día de Martin Luther King, Jr., Juneteenth y Día de la Independencia— exhiben un crecimiento excepcional que supera en un 5% al promedio de crecimiento de estas festividades en comparación con otras fechas festivas como el Día del Trabajo. Este fenómeno refleja la influencia significativa de estos eventos en el comportamiento de compra, contribuyendo a un aumento adicional en las ventas.
 
-![figura 7 - Variacion de promedio de ventas en dias festivos vs promedio mensual](img/fig7.png)
+![Figura 7 - Variacion de promedio de ventas en dias festivos vs promedio mensual](img/fig7.png)
+*Figura 7 - Variacion de promedio de ventas en dias festivos vs promedio mensual*
 
 ### **Discusión**
 
