@@ -100,8 +100,12 @@ En conjunto, estos resultados señalan la importancia de la adaptación y person
 
 * Arora, Vivek & Vamvakidis, Athanasios. 2006. "The Impact of U.S. Economic Growth on the Rest of the World: How Much Does It Matter?," Journal of Economic Integration, Center for Economic Integration, Sejong University, vol. 21, pages 21-39.
 * Curtis C., Garín J., Lester R. 2022. “Working, consuming, and dying: Quantifying the diversity in the American experience”. Journal of Economic Dynamics and Control. Vol: 138.
+* PARKER K., MENASCE HOROWITZ J., BROWN A., FRY R., D’VERA COHN AND IGIELNIK R. 2018. Demographic and economic trends in urban, suburban and rural communities. WHAT UNITES AND DIVIDES URBAN, SUBURBAN AND RURAL COMMUNITIES. [Link](https://www.pewresearch.org/social-trends/2018/05/22/demographic-and-economic-trends-in-urban-suburban-and-rural-communities/) 
 * Patel Z., Jaiswal R., Potdar G., Khodaskar M.R. 2022. A SURVEY PAPER ON BIG DATA ANALYTICS IN SALES AND MARKETING. 10. c420-c428.
 * Rodríguez-Pose A, von Berlepsch V. (2018) “Does Population Diversity Matter for Economic Development in the Very Long Term? Historic Migration”. Diversity and County Wealth in the US. Eur J Popul. Vol: 35(5):873-911.
+* Smith A., Jakob Stöber J., Ulrich. 2020. How data analytics helps sales reps win more deals. McKinsey & Company. [Link](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/how-data-analytics-helps-sales-reps-win-more-deals)  
+* Smith M. 2023. International survey: is there too much American influence on national culture? YouGov: Society International. [Link](https://yougov.co.uk/international/articles/45518-international-survey-there-too-much-american-influ?redirect_from=%2Ftopics%2Finternational%2Farticles-reports%2F2023%2F04%2F06%2Finternational-survey-there-too-much-american-influ)
+* Wilkie W. & David M. Gardner D. M. (1974). The Role of Marketing Research in Public Policy Decision Making. Journal of Marketing. Vol. 38, No. 1. pp. 38-47
 
 ### **Anexo**
 
